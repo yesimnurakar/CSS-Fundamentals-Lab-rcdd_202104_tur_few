@@ -23,7 +23,15 @@ img {
   align-self: center;
   font-size: 5%;
 }
-p {
+#featuredproperty {
   width: 800px;
   text-align: center;
+}
+#details {
+display: block;
+
+}
+
+.deta {
+  float: left;
 }
