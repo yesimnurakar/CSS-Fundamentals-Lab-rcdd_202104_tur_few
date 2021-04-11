@@ -19,3 +19,11 @@ img {
   background-color: gray;
 
 }
+#figcap {
+  align-self: center;
+  font-size: 5%;
+}
+p {
+  width: 800px;
+  text-align: center;
+}
